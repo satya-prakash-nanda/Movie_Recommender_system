@@ -1,6 +1,6 @@
 # Movie_Recommender_system
 
-
+The Movie Recommender System is designed to suggest movies to users based on their preferences. It utilizes content-based filtering, and hybrid approaches to generate recommendations. The goal is to enhance user experience by providing relevant movie suggestions.
 
 # Output
 
